@@ -20,3 +20,6 @@ Navigate to the project folder with requirements.txt
 run: pip install -r requirements.txt
 You are done installing dependencies
 Open main.py 
+
+
+Execution : https://drive.google.com/drive/folders/1Z3Jy06cz-QxNtODW4qOmpsGFN448zbYr?usp=sharing
